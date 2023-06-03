@@ -30,7 +30,7 @@ function App() {
                                 name= 'Fatty Fatty Murda'
                                 handle= '@dimezin'
                                 image= {image3}
-                                description = 'Tsepal and Tenzin smoke blizz'
+                                description = '33 Lancaster Terr. Brookline'
                                 />
                         </div>
                         <div className = 'column is-4'>
