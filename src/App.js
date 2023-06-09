@@ -46,7 +46,7 @@ function App() {
                                 name= 'dank aftermath'
                                 handle= '@dimezin'
                                 image= {image2}
-                                description = 'Tsepal and Tenzin 2008'
+                                description = 'can you even hang?'
                                 />
                         </div>
                     </div>
