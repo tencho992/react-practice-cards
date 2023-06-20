@@ -4,7 +4,7 @@ import 'bulma/css/bulma.css'
 //import cards (capitalize bc it is COMPONANT)
 import Chodecard from './chode-card'
 //import image for card (PROP being passed thru Componant/card)
-import chodeimage from './react-images/chodie.png'
+import image1 from './react-images/chodie.png'
 import image2 from './react-images/blitzed.png'
 import image3 from './react-images/blunt.png'
 import image4 from './react-images/high.png'
@@ -63,7 +63,7 @@ function App() {
                             <Chodecard
                                 name= 'Munchies'
                                 handle= '@dimezin'
-                                image= {chodeimage}
+                                image= {image1}
                                 description = 'Legend says shes still grubbin'
                                 />
                         </div>
