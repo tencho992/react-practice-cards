@@ -35,8 +35,8 @@ function App() {
                         </div>
                         <div className = 'column is-4'>
                             <Chodecard
-                                name= 'We out hea'
-                                handle= '@dimezin'
+                                name= 'That Mary Jane'
+                                handle= '@10zshangrila'
                                 image= {image4}
                                 description = 'high on that mary jane'
                                 />
