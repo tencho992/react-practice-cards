@@ -17,7 +17,7 @@ function App() {
             <section className= 'hero is-small is-danger'>
                 <div className= 'hero-body'>
                     <p className= 'title'>
-                        Pepe and Chode
+                        Adventures of Tenzin and Tsepal 2008
                     </p>
                 </div>
             </section>
